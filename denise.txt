@@ -1,1 +1,3 @@
 Secompp 2023  - Curso de Git 
+Criamos um novo repositório, fizemos um novo projeto local e executamos os comandos para ser enviado ao gitHub 
+Bye
